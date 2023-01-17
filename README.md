@@ -1,6 +1,18 @@
-# Codenation
-Codenation Data Science Challenge
+# Codenation Data Science Challenge
 
+## Introduction 
 
-Nosso objetivo nesse desafio é criar um modelo no arquivo train.csv para prever nota da prova de matemática (coluna NU_NOTA_MT) de quem participou do ENEM 2016.
-Depois teremos que salvar a resposta em um arquivo chamado answer.csv com duas colunas: NU_INSCRICAO e NU_NOTA_MT.
+Our goal in this challenge is to create a model in the train.csv file to predict the math test score (column NU_NOTA_MT) of those who participated in ENEM 2016.
+Then we will have to save the answer in a file called answer.csv with two columns: NU_INSCRICAO and NU_NOTA_MT.
+
+## Technology Used
+
+- Python
+
+## Data Used
+
+Here is the dataset used in the project - https://github.com/Math-Muniz/Codenation/blob/main/test.csv
+
+## Data Predict
+
+Here is the dataset predict in the project - https://github.com/Math-Muniz/Codenation/blob/main/train.csv
